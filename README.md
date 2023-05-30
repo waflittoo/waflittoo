@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅  Currently working on personal projects to expand my portfolio<br>✅  Mainly interested in web development, python, C#<br>✅  Good performance in team working<br>✅  Currently learning: Kotlin, c++
+✅  Currently working on personal projects to expand my portfolio<br>✅  Mainly interested in web development, python, C#<br>✅  Good performance in team working<br>✅  Currently learning: Kotlin and c++
 
 
 ## 🌐 Socials:
